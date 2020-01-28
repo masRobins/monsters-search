@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/masrobins/monsters-search/static/css/main.c70fd6ee.chunk.css",
-    "main.js": "/masrobins/monsters-search/static/js/main.529525ba.chunk.js",
-    "main.js.map": "/masrobins/monsters-search/static/js/main.529525ba.chunk.js.map",
-    "runtime-main.js": "/masrobins/monsters-search/static/js/runtime-main.c7456b37.js",
-    "runtime-main.js.map": "/masrobins/monsters-search/static/js/runtime-main.c7456b37.js.map",
-    "static/js/2.7db90bec.chunk.js": "/masrobins/monsters-search/static/js/2.7db90bec.chunk.js",
-    "static/js/2.7db90bec.chunk.js.map": "/masrobins/monsters-search/static/js/2.7db90bec.chunk.js.map",
-    "index.html": "/masrobins/monsters-search/index.html",
-    "precache-manifest.490ce330aff5e9c5917b3e4c29cbbffc.js": "/masrobins/monsters-search/precache-manifest.490ce330aff5e9c5917b3e4c29cbbffc.js",
-    "service-worker.js": "/masrobins/monsters-search/service-worker.js",
-    "static/css/main.c70fd6ee.chunk.css.map": "/masrobins/monsters-search/static/css/main.c70fd6ee.chunk.css.map",
-    "static/js/2.7db90bec.chunk.js.LICENSE": "/masrobins/monsters-search/static/js/2.7db90bec.chunk.js.LICENSE"
+    "main.css": "//github.io/masrobins/monsters-search/static/css/main.c70fd6ee.chunk.css",
+    "main.js": "//github.io/masrobins/monsters-search/static/js/main.86147131.chunk.js",
+    "main.js.map": "//github.io/masrobins/monsters-search/static/js/main.86147131.chunk.js.map",
+    "runtime-main.js": "//github.io/masrobins/monsters-search/static/js/runtime-main.b8748955.js",
+    "runtime-main.js.map": "//github.io/masrobins/monsters-search/static/js/runtime-main.b8748955.js.map",
+    "static/js/2.7db90bec.chunk.js": "//github.io/masrobins/monsters-search/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "//github.io/masrobins/monsters-search/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "//github.io/masrobins/monsters-search/index.html",
+    "precache-manifest.4143707457de5bb2a5d35543643f7904.js": "//github.io/masrobins/monsters-search/precache-manifest.4143707457de5bb2a5d35543643f7904.js",
+    "service-worker.js": "//github.io/masrobins/monsters-search/service-worker.js",
+    "static/css/main.c70fd6ee.chunk.css.map": "//github.io/masrobins/monsters-search/static/css/main.c70fd6ee.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "//github.io/masrobins/monsters-search/static/js/2.7db90bec.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7456b37.js",
+    "static/js/runtime-main.b8748955.js",
     "static/js/2.7db90bec.chunk.js",
     "static/css/main.c70fd6ee.chunk.css",
-    "static/js/main.529525ba.chunk.js"
+    "static/js/main.86147131.chunk.js"
   ]
 }
